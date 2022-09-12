@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.scboardwrite_main{
+	position:relative;
+	background:rgba(0,0,0,0); width:1500px; height:1000px; text-align:center;
+	margin:140px 0px 0px 0px;
+	border:none;
+	margin-right:auto; margin-left:auto;
+	z-index:0;
+	top:100px;
+}
+#sc_file{
+	position:relative;
+	width:1px;
+	height:1px;
+}
+.file_upload_button_sc{
+	position:relative;
+	color: #000;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	font-size: 14px;
+	line-height: 8px;
+	height: 30px;
+	cursor: pointer;	
+	padding:10px;
+	float:right;
+}
